@@ -1,0 +1,48 @@
+#tennis{
+  display: none;
+}
+.fondoCancha{
+  height: 200px;
+  width: 400px;
+  background-color: green;
+  margin: 0 auto;
+  position: relative;
+}
+
+.lineaSuperior{
+  width: 399px;
+  height: 0px;
+  border: 1px solid white;
+  position: absolute;
+  margin-top: 25px;
+  position: absolute;
+}
+
+.lineaInferior{
+  margin-top: 170px;
+  position: absolute;
+}
+
+.lineaTransversal{
+  width: 300px;;
+  margin-top: 100px;
+  margin-left: 50px;
+  position: absolute;
+}
+
+.lineaDerecha{
+  width: 0px;
+  height: 145px;
+  border: 2px solid white;
+  margin-left: 50px;
+  margin-top: 25px;
+  position: absolute;
+}
+
+.lineaIzquierda{
+  margin-left: 350px
+}
+
+.lineaCentral{
+  margin-left: 200px
+}
