@@ -72,3 +72,13 @@
   border-left: none;
 
 }
+
+.balon{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+  position: absolute;
+  left: 200px;
+  top: 150px;
+}

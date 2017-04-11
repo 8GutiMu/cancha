@@ -56,3 +56,8 @@
 #futbol{
   display: none;
 }
+
+.balonfutbal{
+  background-color: white;
+  left: 100px;
+}
